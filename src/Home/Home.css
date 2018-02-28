@@ -1,0 +1,43 @@
+#home{
+	margin: 1rem;
+	margin-bottom: 8rem;
+	padding: 3rem;
+	background-color: #dfddce;
+	color: rgba(0,0,0,.6);
+
+
+}
+
+
+.header{
+	font-family: "Raleway";
+	text-align: center;
+}
+
+.content{
+	font-family: "Lora";
+	margin: 1rem;
+	text-align: left;
+}
+
+
+p{
+	margin-bottom: 1.5rem;
+}
+
+
+.home{
+	margin: 3rem;
+	display: inline-grid;
+}
+
+
+.home-picture{
+	height: 15rem;
+}
+
+.description{
+	padding: 3rem;
+	margin-left: 3rem; 
+	margin-right: 3rem; 
+}

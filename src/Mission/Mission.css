@@ -1,0 +1,33 @@
+#mission{
+	margin: 1rem;
+	margin-bottom: 8rem;
+	padding: 5px;
+}
+
+
+.header{
+	font-family: "Montserrat";
+}
+
+.content{
+	font-family: "Crimson Text";
+}
+
+p{
+	margin-bottom: 1.5rem;
+}
+
+
+.mission{
+	margin: 3rem;
+	display: inline-grid;
+}
+.mission-picture{
+	height: 15rem;
+}
+
+.description{
+	padding: 3rem;
+	margin-left: 3rem; 
+	margin-right: 3rem; 
+}

@@ -1,0 +1,41 @@
+#about{
+	margin: 1rem;
+	margin-bottom: 8rem;
+	padding: 5px;
+}
+
+
+.header{
+	font-family: "Raleway";
+	
+}
+
+.content{
+	font-family: "Lora";
+}
+
+
+p{
+	margin-bottom: 1.5rem;
+}
+
+
+.about{
+	margin: 3rem;
+	display: inline-grid;
+}
+.about-picture{
+	height: 30px;
+	width: 30px;
+}
+
+.description{
+	padding: 3rem;
+	padding-top: 1rem;
+	margin-left: 3rem; 
+	margin-right: 3rem; 
+}
+
+h3{
+	text-align: center;
+}

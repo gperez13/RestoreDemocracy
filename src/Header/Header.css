@@ -1,0 +1,39 @@
+#nav{
+	margin: 1rem;
+	padding: 5px;
+
+}
+
+#nav-logo{
+	height: 3.3rem;
+}
+
+
+.header{
+	font-family: "Raleway";
+}
+
+.content{
+	font-family: "Lora";
+}
+
+
+p{
+	margin-bottom: 1.5rem;
+
+}
+
+
+.link{
+	color: black;
+	padding-bottom: 5px;
+	margin-left: 3rem;
+	font-size: 1rem;
+
+}
+
+.link:hover{
+	color: #0074D9;
+	transition: 0.5s;
+
+}

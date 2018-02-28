@@ -1,0 +1,57 @@
+#footer{
+	position: absolute;
+	width: 100%;
+	margin-top: -2.6rem;
+	margin-bottom: 0rem;
+	padding-top: 2.3rem;
+	padding-bottom: 2rem;
+	padding-left: 5rem;
+	background-color: #001f3f;
+	color: white;
+	bottom: auto;
+
+
+
+
+}
+
+.header{
+	font-family: "Raleway";
+	
+}
+
+.content{
+	font-family: "Lora";
+}
+
+#bird{
+	margin: 20px 0px 0px 0px;
+	height: 36px;
+	width: 36px;
+	padding: 3px;
+	border: none;
+	border-radius: 0px;
+	background-color: #AAAAAA;
+}
+
+#insta{
+	margin: 20px 0px 0px 10px;
+	height: 36px;
+	width: 36px;
+	padding: 3px;
+	border: none;
+	border-radius: 0px;
+	background-color: #AAAAAA;
+
+}
+
+#book{
+	margin: 20px 0px 0px 10px;
+	height: 36px;
+	width: 36px;
+	padding: 3px;
+	border: none;
+	border-radius: 0px;
+	background-color: #AAAAAA;
+}
+
